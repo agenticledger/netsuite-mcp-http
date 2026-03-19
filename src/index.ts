@@ -638,3 +638,4 @@ app.listen(PORT, () => {
   console.log(`  Transport:      Streamable HTTP`);
   console.log(`  Auth:           Bearer passthrough (Base64-encoded NetSuite OAuth 1.0 credentials)`);
 });
+// OAuth upgrade 2026-03-19T00:52:23Z
